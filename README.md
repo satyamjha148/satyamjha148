@@ -29,4 +29,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=soulcode36&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satyamjha148&theme=dark)](https://git.io/streak-stats)
